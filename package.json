@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/DDunc/git_tutorial/issues"
   },
-  "homepage": "https://github.com/DDunc/git_tutorial#readme"
+  "homepage": "https://github.com/DDunc/git_tutorial#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.2",
+    "mocha": "^2.3.0"
+  }
 }
